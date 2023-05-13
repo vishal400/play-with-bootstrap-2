@@ -1,0 +1,5 @@
+h1 {
+    width: 100%;
+    background-image: linear-gradient(rgb(231, 231, 231), gray);
+    color: black;
+}
